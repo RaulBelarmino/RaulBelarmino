@@ -14,9 +14,6 @@ I'm a Data Science student, here is where I'll share my learning process and dat
 * Python for Webscraping;
 * Statistics for Data Science.
 
-## GitHub Stats:
-![Raul Belarmino's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulBelarmino&show_icons=true&theme=dark)
-
 <!---
 RaulBelarmino/RaulBelarmino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
